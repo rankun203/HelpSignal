@@ -1,5 +1,5 @@
-#ignore files
+# ignore files
 local.properties
 
-#ignore folders
+# ignore folders
 .idea/
