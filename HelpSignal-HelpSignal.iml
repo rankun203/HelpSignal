@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.path="C:\Users\chenjian\AndroidStudioProjects\HelpSignal\build.gradle" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\build.gradle" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android" name="Android">
       <configuration>
@@ -15,7 +15,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":HelpSignal" />
-        <option name="PROJECT_ABSOLUTE_PATH" value="C:\Users\chenjian\AndroidStudioProjects\HelpSignal" />
+        <option name="PROJECT_ABSOLUTE_PATH" value="E:\Workspace\Projects\Android\asWorkspace\HelpSignal" />
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
     </facet>
