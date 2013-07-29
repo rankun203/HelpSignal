@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.cdvtc.helpsignal;
+package com.cdvtc.helpsignalwifitest1;
 
 public final class R {
     public static final class attr {
@@ -24,7 +24,6 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int wifi_test_a=0x7f030001;
     }
     public static final class menu {
         public static final int main=0x7f070000;
