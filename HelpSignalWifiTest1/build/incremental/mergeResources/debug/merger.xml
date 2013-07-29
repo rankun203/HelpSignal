@@ -2,25 +2,25 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res" >
+        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-sw720dp-land/dimens.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-v14/styles.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -31,7 +31,7 @@
                 </style>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-v11/styles.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -42,17 +42,17 @@
                 </style>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/strings.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
-                <string name="app_name" >HelpSignal
+                <string name="app_name" >HelpSignalWifiTest1
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/styles.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -74,7 +74,7 @@
                 </style>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/dimens.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -83,37 +83,32 @@
             </file>
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-sw600dp/dimens.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/values-sw600dp/dimens.xml"
                 qualifiers="sw600dp" />
             <file
                 name="main"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/menu/main.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="activity_main"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/layout/activity_main.xml"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
-            <file
-                name="wifi_test_a"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/layout/wifi_test_a.xml"
-                qualifiers=""
-                type="layout" />
         </source>
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/rs/debug" />
+        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/debug/res" />
+        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignalWifiTest1/src/debug/res" />
     </dataSet>
 
 </merger>

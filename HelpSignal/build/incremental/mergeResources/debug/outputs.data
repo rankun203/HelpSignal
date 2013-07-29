@@ -2,6 +2,7 @@
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
 1374995865000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/all/debug/values-v11/values.xml
+1375085177000 1157 88d1b9dbdffe294a8757cf60ad93c6ad7522361c /home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/all/debug/layout/wifi_test_a.xml
 1374995865000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/all/debug/menu/main.xml
 1374995865000 5108 4bc618ff5b2eb3f28084b0d28a3097bfbf422145 /home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1374995865000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/all/debug/values-v14/values.xml
