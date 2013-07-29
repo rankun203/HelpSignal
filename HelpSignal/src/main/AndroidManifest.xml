@@ -5,14 +5,13 @@
           android:versionName="1.0">
 
     <uses-sdk
-        android:minSdkVersion="7"
-        android:targetSdkVersion="16"/>
+        android:minSdkVersion="14"
+        android:targetSdkVersion="16" />
 
     <uses-feature android:name="android.hardware.wifi"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
     <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
-
 
     <application
         android:allowBackup="true"

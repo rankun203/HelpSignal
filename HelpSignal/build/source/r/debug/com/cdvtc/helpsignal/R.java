@@ -19,8 +19,19 @@ public final class R {
     }
     public static final class id {
         public static final int action_settings=0x7f080002;
+<<<<<<< HEAD
         public static final int test_wifiStateBtn=0x7f080000;
         public static final int test_wifiStateText=0x7f080001;
+=======
+<<<<<<< HEAD
+        public static final int menu_switch=0x7f080003;
+        public static final int searcher_number =0x7f080001;
+        public static final int survivor_number=0x7f080000;
+=======
+        public static final int test_wifiStateBtn=0x7f080000;
+        public static final int test_wifiStateText=0x7f080001;
+>>>>>>> 087c27a267a5cf4a482c558ee38e09723bae0a65
+>>>>>>> 4d3b9ba2ba875119f8eecbcc9762fa4b53182d63
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -33,6 +44,11 @@ public final class R {
         public static final int action_settings=0x7f050000;
         public static final int app_name=0x7f050001;
         public static final int hello_world=0x7f050002;
+        public static final int role=0x7f050003;
+        public static final int sear_num=0x7f050004;
+        public static final int searcher=0x7f050005;
+        public static final int sur_num=0x7f050006;
+        public static final int survivor=0x7f050007;
     }
     public static final class style {
         /** 
