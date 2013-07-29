@@ -7,11 +7,10 @@
     </string>
     <string name="hello_world" >Hello world!
     </string>
-    <string name="role">角色</string>
-    <string name="survivor">被困者</string>
-    <string name="searcher">搜救者</string>
-    <string name="sur_num">被困者:</string>
-    <string name="sear_num">搜救者:</string>
-
+    <string name="role">Role:</string>
+    <string name="survivor">Survivor</string>
+    <string name="searcher">Searcher</string>
+    <string name="sur_num">Survivor:</string>
+    <string name="sear_num">Searcher:</string>
 
 </resources>

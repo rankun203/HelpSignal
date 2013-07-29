@@ -1,6 +1,7 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
+<<<<<<< HEAD
 1375005118870 9468 c91add9f646e74529f2db7d51c264f499d31df91 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
 1375005118871 250 82d56e611a63ce2e3a53bfe9a5f3cf3e4733cdc6 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\menu\main.xml
 1375005118867 5108 4bc618ff5b2eb3f28084b0d28a3097bfbf422145 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\drawable-xhdpi\ic_launcher.png
@@ -12,3 +13,16 @@
 1375054864012 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\values-v11\values.xml
 1375054863974 808 8be456aa64ae85f240a02d87b37b4b954ab98439 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\values\values.xml
 1375005118865 3244 e84a12d9b9cf40320219ee5fa2e0c51542259263 C:\Users\chenjian\AndroidStudioProjects\HelpSignal\HelpSignal\build\res\all\debug\drawable-hdpi\ic_launcher.png
+=======
+1375089847567 456 3d8b637c264484812defc38271247f3d484944c5 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\values-en\values.xml
+1375089847563 1042 dd8d1edd899bac1cc3a7a415828a21a915b619b5 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\values\values.xml
+1375066599353 130 90e37035f35f83953c491e73e930b7aea297a472 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\values-sw720dp-land\values.xml
+1375066599346 210 c41731f5631a90fa989588ef97e9476fc244b438 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\values-v11\values.xml
+1375090249258 1075 3ceebe6d8a431543c8531ed3eb781958c61114b6 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\layout\activity_main.xml
+1375066599305 9468 c91add9f646e74529f2db7d51c264f499d31df91 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1375066599343 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\values-v14\values.xml
+1375066599304 1917 344ac997ccce6fb9a77e77177dfcf2132c9a4ed6 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1375066599304 5108 4bc618ff5b2eb3f28084b0d28a3097bfbf422145 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1375081785551 394 ee2f61bbfc6c190331915c97c38de6313e324052 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\menu\main.xml
+1375066599304 3244 e84a12d9b9cf40320219ee5fa2e0c51542259263 E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\all\debug\drawable-hdpi\ic_launcher.png
+>>>>>>> 1f97ecf2ef65c7c5c6e449b1888a68e4cfe61c6c
