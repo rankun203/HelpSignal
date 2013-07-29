@@ -2,57 +2,72 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res" >
+        <source path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res" >
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="radar"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\drawable-hdpi\radar.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\drawable-xhdpi\ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-sw720dp-land/dimens.xml"
-                qualifiers="sw720dp-land" >
-                <dimen name="activity_horizontal_margin" >128dp
+                name="ic_launcher"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
                 </dimen>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-v14/styles.xml"
-                qualifiers="v14" >
-
-                <style
-                    name="AppBaseTheme"
-                    parent="android:Theme.Holo.Light.DarkActionBar" >
-
-                    <!-- API 14 theme customizations can go here. -->
-                </style>
-            </file>
-            <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-v11/styles.xml"
-                qualifiers="v11" >
-
-                <style
-                    name="AppBaseTheme"
-                    parent="android:Theme.Holo.Light" >
-
-                    <!-- API 11 theme customizations can go here. -->
-                </style>
-            </file>
-            <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/strings.xml"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values\strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
+                <string name="sur_num" >被困者:
+                </string>
                 <string name="app_name" >HelpSignal
+                </string>
+                <string name="survivor" >被困者
+                </string>
+                <string name="role" >角色
+                </string>
+                <string name="searcher" >搜救者
+                </string>
+                <string name="sear_num" >搜救者:
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/styles.xml"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values\styles.xml"
                 qualifiers="" >
 
                 <style
@@ -74,41 +89,66 @@
                 </style>
             </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values/dimens.xml"
-                qualifiers="" >
-                <dimen name="activity_horizontal_margin" >16dp
-                </dimen>
-                <dimen name="activity_vertical_margin" >16dp
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values-en\strings.xml"
+                qualifiers="en" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="searcher" >Searcher
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="role" >Role:
+                </string>
+                <string name="sear_num" >Searcher:
+                </string>
+                <string name="survivor" >Survivor
+                </string>
+                <string name="sur_num" >Survivor:
+                </string>
+                <string name="app_name" >HelpSignal
+                </string>
+            </file>
+            <file
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-xxhdpi/ic_launcher.png"
-                qualifiers="xxhdpi"
-                type="drawable" />
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
             <file
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/values-sw600dp/dimens.xml"
-                qualifiers="sw600dp" />
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
             <file
-                name="main"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/menu/main.xml"
+                name="radar"
+                path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\res\raw\radar.png"
                 qualifiers=""
-                type="menu" />
-            <file
-                name="activity_main"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/layout/activity_main.xml"
-                qualifiers=""
-                type="layout" />
-            <file
-                name="ic_launcher"
-                path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/res/drawable-mdpi/ic_launcher.png"
-                qualifiers="mdpi"
-                type="drawable" />
+                type="raw" />
         </source>
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/build/res/rs/debug" />
+        <source path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\build\res\rs\debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/debug/res" />
+        <source path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\debug\res" />
     </dataSet>
 
 </merger>

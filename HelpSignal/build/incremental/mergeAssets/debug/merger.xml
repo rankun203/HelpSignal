@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/main/assets" />
+        <source path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/mindfine/AndroidStudioProjects/HelpSignal/HelpSignal/src/debug/assets" />
+        <source path="E:\Workspace\Projects\Android\asWorkspace\HelpSignal\HelpSignal\src\debug\assets" />
     </dataSet>
 
 </merger>
