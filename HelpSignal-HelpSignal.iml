@@ -15,7 +15,7 @@
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":HelpSignal" />
-        <option name="PROJECT_ABSOLUTE_PATH" value="E:\Workspace\Projects\Android\asWorkspace\HelpSignal" />
+        <option name="PROJECT_ABSOLUTE_PATH" value="C:\Users\chenjian\AndroidStudioProjects\HelpSignal" />
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
     </facet>

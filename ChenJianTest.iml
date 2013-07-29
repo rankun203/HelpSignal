@@ -23,37 +23,37 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/ChenJianTest">
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/buildConfig/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/r/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/res" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/rs/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/aidl/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/buildConfig/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/res/rs/debug" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/assets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/r/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/aidl/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/rs/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/buildConfig/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/res/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/res" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/res/rs/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/build/source/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ChenJianTest/src/instrumentTest/resources" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/ChenJianTest/build/apk" />
       <excludeFolder url="file://$MODULE_DIR$/ChenJianTest/build/assets" />
       <excludeFolder url="file://$MODULE_DIR$/ChenJianTest/build/bundles" />
