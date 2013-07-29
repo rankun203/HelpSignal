@@ -18,7 +18,10 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f080002;
+        public static final int menu_switch=0x7f080003;
+        public static final int searcher_number =0x7f080001;
+        public static final int survivor_number=0x7f080000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -30,6 +33,11 @@ public final class R {
         public static final int action_settings=0x7f050000;
         public static final int app_name=0x7f050001;
         public static final int hello_world=0x7f050002;
+        public static final int role=0x7f050003;
+        public static final int sear_num=0x7f050004;
+        public static final int searcher=0x7f050005;
+        public static final int sur_num=0x7f050006;
+        public static final int survivor=0x7f050007;
     }
     public static final class style {
         /** 
