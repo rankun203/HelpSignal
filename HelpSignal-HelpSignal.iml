@@ -16,7 +16,7 @@
       <configuration>
         <option name="GRADLE_PROJECT_PATH" value=":HelpSignal" />
         <option name="PROJECT_ABSOLUTE_PATH" value="$MODULE_DIR$" />
-        <option name="GRADLE_HOME_DIR_PATH" />
+        <option name="GRADLE_HOME_DIR_PATH" value="$USER_HOME$/Java/app/gradle-1.6" />
       </configuration>
     </facet>
   </component>
