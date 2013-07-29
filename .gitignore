@@ -3,4 +3,4 @@ local.properties
 
 # ignore folders
 .idea/
-.gradle/
+gradle/

@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >HelpSignal
+    <string name="app_name" >求生讯号
     </string>
-    <string name="action_settings" >Settings
-    </string>
-    <string name="hello_world" >Hello world!
+    <string name="action_settings" >设置
     </string>
     <string name="role">角色</string>
     <string name="survivor">被困者</string>
