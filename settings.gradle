@@ -1,1 +1,1 @@
-include ':HelpSignal'
+include ':HelpSignal', ':HelpSignalWifiTest1'
