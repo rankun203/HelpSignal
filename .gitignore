@@ -1,5 +1,10 @@
 # ignore files
 local.properties
 
+# ignore types of file
+*.iml
+
 # ignore folders
 .idea/
+.gradle/
+gradle/
