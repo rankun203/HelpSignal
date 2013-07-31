@@ -7,5 +7,7 @@
     </string>
     <string name="hello_world" >Hello world!
     </string>
+    <string name="cj_txt_enable_p2p">EnableP2p</string>
+    <string name="cj_txt_disable_p2p">DisableP2p</string>
 
 </resources>
