@@ -17,6 +17,7 @@ import android.provider.Settings;
 import android.util.Log;
 import android.util.Xml;
 import android.view.Menu;
+<<<<<<< HEAD
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
@@ -36,6 +37,9 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+=======
+import android.view.View;
+>>>>>>> 582815a54e5095434766e68d0f1f8484d11d24c1
 
 @SuppressLint("NewApi")
 public class MainActivity extends Activity implements WifiP2pManager.PeerListListener,WifiP2pManager.ConnectionInfoListener {
@@ -80,6 +84,7 @@ public class MainActivity extends Activity implements WifiP2pManager.PeerListLis
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
+<<<<<<< HEAD
 
     @Override
     public boolean onMenuItemSelected(int featureId, MenuItem item) {
@@ -247,5 +252,9 @@ public class MainActivity extends Activity implements WifiP2pManager.PeerListLis
             }
             return null;
         }
+=======
+    public void getPeers(View view) {
+
+>>>>>>> 582815a54e5095434766e68d0f1f8484d11d24c1
     }
 }

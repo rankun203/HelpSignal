@@ -3,8 +3,9 @@ local.properties
 
 # ignore types of file
 *.iml
+*.bak
 
 # ignore folders
 .idea/
-.gradle/
 gradle/
+
