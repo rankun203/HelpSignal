@@ -26,16 +26,11 @@ import android.net.wifi.p2p.WifiP2pManager.Channel;
 
 public class WiFiDirectBroadcastReceiver extends BroadcastReceiver {
 
-    private WifiP2pManager manager;
-    private Channel channel;
-    private MainActivity activity;
+    private MyWifiP2p myWifiP2p;
 
-    public WiFiDirectBroadcastReceiver(WifiP2pManager manager, Channel channel,
-                                       MainActivity activity) {
+    public WiFiDirectBroadcastReceiver(MyWifiP2p myWifiP2p) {
         super();
-        this.manager = manager;
-        this.channel = channel;
-        this.activity = activity;
+        this.myWifiP2p = myWifiP2p;
     }
 
     @Override
@@ -44,17 +39,17 @@ public class WiFiDirectBroadcastReceiver extends BroadcastReceiver {
         if (WifiP2pManager.WIFI_P2P_STATE_CHANGED_ACTION.equals(action)) {
             int state = intent.getIntExtra(WifiP2pManager.EXTRA_WIFI_STATE, -1);
             if (state == WifiP2pManager.WIFI_P2P_STATE_ENABLED) {
-                activity.setWifiP2pEnabled(true);
+                myWifiP2p.setWifiP2pEnabled(true);
             } else {
-                activity.setWifiP2pEnabled(false);
+                myWifiP2p.setWifiP2pEnabled(false);
             }
         } else if (WifiP2pManager.WIFI_P2P_PEERS_CHANGED_ACTION.equals(action)) {
-            if (manager != null) {           //有peeer的改动
-                manager.requestPeers(channel, activity);
+            if (myWifiP2p.getManager() != null) {           //有peeer的改动
+                myWifiP2p.getManager().requestPeers(myWifiP2p.getChannel(), myWifiP2p);
             }
         } else if (WifiP2pManager.WIFI_P2P_CONNECTION_CHANGED_ACTION.equals(action)) {
 
-            if (manager == null) {
+            if (myWifiP2p.getManager() == null) {
                 return;
             }
 

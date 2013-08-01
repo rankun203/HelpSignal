@@ -5,7 +5,7 @@ package com.example.chenjiantest;
  */
 public class PersonInfo {
     private String name;
-    private int falg;           //1-survivor, 2-searcher
+    private int flag;           //1-survivor, 2-searcher
 
     public String getName() {
         return name;
@@ -15,11 +15,11 @@ public class PersonInfo {
         this.name = name;
     }
 
-    public int getFalg() {
-        return falg;
+    public int getFlag() {
+        return flag;
     }
 
-    public void setFalg(int falg) {
-        this.falg = falg;
+    public void setFlag(int flag) {
+        this.flag = flag;
     }
 }

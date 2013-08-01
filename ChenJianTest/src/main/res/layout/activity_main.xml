@@ -25,7 +25,6 @@
     <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-<<<<<<< HEAD
             android:text="refresh Wifi Direct Peers"
             android:id="@+id/cj_btn_wifi"
             android:onClick="getPeers"/>
@@ -33,10 +32,4 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:id="@+id/cj_txt_info" android:layout_gravity="left|center_vertical"/>
-=======
-            android:text="WIFI"
-            android:id="@+id/cj_btn_wifi"
-            android:layout_gravity="left|center_vertical"
-            android:onClick="getPeers"/>
->>>>>>> 582815a54e5095434766e68d0f1f8484d11d24c1
 </LinearLayout>
